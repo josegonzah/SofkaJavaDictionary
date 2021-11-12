@@ -1,0 +1,3 @@
+Hi:hola
+Helo:hola
+Code:Codigo
